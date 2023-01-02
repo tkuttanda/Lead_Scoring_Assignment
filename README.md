@@ -8,3 +8,10 @@ An education company named X Education sells online courses to industry professi
 There are few goals for this case study:
 Build a logistic regression model to assign a lead score between 0 and 100 to each of the leads which can be used by the company to target potential leads. A higher score would mean that the lead is hot, i.e. is most likely to convert whereas a lower score would mean that the lead is cold and will mostly not get converted.
 There are some more problems presented by the company which the model should be able to adjust to if the company's requirement changes in the future.
+
+
+# Output of the case study, these files are included in the GIT
+1. Python File with the logistic model and analysis.
+2. Summary report
+3. Answers of the questions 
+4. The overall approach of the analysis in a presentation.
