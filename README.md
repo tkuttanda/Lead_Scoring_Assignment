@@ -11,7 +11,7 @@ There are some more problems presented by the company which the model should be 
 
 
 # Output of the case study, these files are included in the GIT
-1. Python File with the logistic model and analysis.
-2. Summary report
-3. Answers of the questions 
-4. The overall approach of the analysis in a presentation.
+1. Python File with the logistic model and analysis: Lead_Scoring_Assignment.ipynb
+2. Summary report: Summary_report.pdf
+3. Answers of the questions: Lead_Scoring_Subjective Questions.pdf
+4. The overall approach of the analysis in a presentation: LEAD_SCORING_Case Study_Presentation.pdf
